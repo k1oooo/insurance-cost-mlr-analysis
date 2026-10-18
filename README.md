@@ -88,9 +88,9 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels jupyter
 **Run:**
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
-jupyter notebook SAIA1173_MLR_Analysis_.ipynb
+   git clone https://github.com/k1oooo/insurance-cost-mlr-analysis.git
+   cd insurance-cost-mlr-analysis
+   jupyter notebook SAIA1173_MLR_Analysis_.ipynb
 ```
 
 Keep `insurance.csv` in the same folder as the notebook, then run all cells.
